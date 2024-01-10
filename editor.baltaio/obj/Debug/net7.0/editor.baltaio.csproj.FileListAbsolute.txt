@@ -1,0 +1,14 @@
+C:\Users\anaca\OneDrive\Área de Trabalho\FundamentosC#\FundamentosC-\editor.baltaio\bin\Debug\net7.0\editor.baltaio.exe
+C:\Users\anaca\OneDrive\Área de Trabalho\FundamentosC#\FundamentosC-\editor.baltaio\bin\Debug\net7.0\editor.baltaio.deps.json
+C:\Users\anaca\OneDrive\Área de Trabalho\FundamentosC#\FundamentosC-\editor.baltaio\bin\Debug\net7.0\editor.baltaio.runtimeconfig.json
+C:\Users\anaca\OneDrive\Área de Trabalho\FundamentosC#\FundamentosC-\editor.baltaio\bin\Debug\net7.0\editor.baltaio.dll
+C:\Users\anaca\OneDrive\Área de Trabalho\FundamentosC#\FundamentosC-\editor.baltaio\bin\Debug\net7.0\editor.baltaio.pdb
+C:\Users\anaca\OneDrive\Área de Trabalho\FundamentosC#\FundamentosC-\editor.baltaio\obj\Debug\net7.0\editor.baltaio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaca\OneDrive\Área de Trabalho\FundamentosC#\FundamentosC-\editor.baltaio\obj\Debug\net7.0\editor.baltaio.AssemblyInfoInputs.cache
+C:\Users\anaca\OneDrive\Área de Trabalho\FundamentosC#\FundamentosC-\editor.baltaio\obj\Debug\net7.0\editor.baltaio.AssemblyInfo.cs
+C:\Users\anaca\OneDrive\Área de Trabalho\FundamentosC#\FundamentosC-\editor.baltaio\obj\Debug\net7.0\editor.baltaio.csproj.CoreCompileInputs.cache
+C:\Users\anaca\OneDrive\Área de Trabalho\FundamentosC#\FundamentosC-\editor.baltaio\obj\Debug\net7.0\editor.baltaio.dll
+C:\Users\anaca\OneDrive\Área de Trabalho\FundamentosC#\FundamentosC-\editor.baltaio\obj\Debug\net7.0\refint\editor.baltaio.dll
+C:\Users\anaca\OneDrive\Área de Trabalho\FundamentosC#\FundamentosC-\editor.baltaio\obj\Debug\net7.0\editor.baltaio.pdb
+C:\Users\anaca\OneDrive\Área de Trabalho\FundamentosC#\FundamentosC-\editor.baltaio\obj\Debug\net7.0\editor.baltaio.genruntimeconfig.cache
+C:\Users\anaca\OneDrive\Área de Trabalho\FundamentosC#\FundamentosC-\editor.baltaio\obj\Debug\net7.0\ref\editor.baltaio.dll
